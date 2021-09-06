@@ -9,7 +9,8 @@ const title = new Vue (
     {
         el: '#root',
         data: {
-            message: '  Example title'
+            message: '  Bonus Terminato',
+            imageSrc: 'https://images.wired.it/wp-content/uploads/2021/01/11182015/Deadpool.jpg'
         }
     }
 )
